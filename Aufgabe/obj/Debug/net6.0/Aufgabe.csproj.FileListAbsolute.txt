@@ -1,0 +1,15 @@
+C:\Users\aslim\OneDrive\Desktop\WiSe2021\c# wise21_22\probeklausuren\probeaufgabe\meine lös\Aufgabe\Aufgabe\bin\Debug\net6.0\Aufgabe.exe
+C:\Users\aslim\OneDrive\Desktop\WiSe2021\c# wise21_22\probeklausuren\probeaufgabe\meine lös\Aufgabe\Aufgabe\bin\Debug\net6.0\Aufgabe.deps.json
+C:\Users\aslim\OneDrive\Desktop\WiSe2021\c# wise21_22\probeklausuren\probeaufgabe\meine lös\Aufgabe\Aufgabe\bin\Debug\net6.0\Aufgabe.runtimeconfig.json
+C:\Users\aslim\OneDrive\Desktop\WiSe2021\c# wise21_22\probeklausuren\probeaufgabe\meine lös\Aufgabe\Aufgabe\bin\Debug\net6.0\Aufgabe.dll
+C:\Users\aslim\OneDrive\Desktop\WiSe2021\c# wise21_22\probeklausuren\probeaufgabe\meine lös\Aufgabe\Aufgabe\bin\Debug\net6.0\Aufgabe.pdb
+C:\Users\aslim\OneDrive\Desktop\WiSe2021\c# wise21_22\probeklausuren\probeaufgabe\meine lös\Aufgabe\Aufgabe\obj\Debug\net6.0\Aufgabe.csproj.AssemblyReference.cache
+C:\Users\aslim\OneDrive\Desktop\WiSe2021\c# wise21_22\probeklausuren\probeaufgabe\meine lös\Aufgabe\Aufgabe\obj\Debug\net6.0\Aufgabe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslim\OneDrive\Desktop\WiSe2021\c# wise21_22\probeklausuren\probeaufgabe\meine lös\Aufgabe\Aufgabe\obj\Debug\net6.0\Aufgabe.AssemblyInfoInputs.cache
+C:\Users\aslim\OneDrive\Desktop\WiSe2021\c# wise21_22\probeklausuren\probeaufgabe\meine lös\Aufgabe\Aufgabe\obj\Debug\net6.0\Aufgabe.AssemblyInfo.cs
+C:\Users\aslim\OneDrive\Desktop\WiSe2021\c# wise21_22\probeklausuren\probeaufgabe\meine lös\Aufgabe\Aufgabe\obj\Debug\net6.0\Aufgabe.csproj.CoreCompileInputs.cache
+C:\Users\aslim\OneDrive\Desktop\WiSe2021\c# wise21_22\probeklausuren\probeaufgabe\meine lös\Aufgabe\Aufgabe\obj\Debug\net6.0\Aufgabe.dll
+C:\Users\aslim\OneDrive\Desktop\WiSe2021\c# wise21_22\probeklausuren\probeaufgabe\meine lös\Aufgabe\Aufgabe\obj\Debug\net6.0\refint\Aufgabe.dll
+C:\Users\aslim\OneDrive\Desktop\WiSe2021\c# wise21_22\probeklausuren\probeaufgabe\meine lös\Aufgabe\Aufgabe\obj\Debug\net6.0\Aufgabe.pdb
+C:\Users\aslim\OneDrive\Desktop\WiSe2021\c# wise21_22\probeklausuren\probeaufgabe\meine lös\Aufgabe\Aufgabe\obj\Debug\net6.0\Aufgabe.genruntimeconfig.cache
+C:\Users\aslim\OneDrive\Desktop\WiSe2021\c# wise21_22\probeklausuren\probeaufgabe\meine lös\Aufgabe\Aufgabe\obj\Debug\net6.0\ref\Aufgabe.dll
